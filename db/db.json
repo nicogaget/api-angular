@@ -1,0 +1,40 @@
+{
+  "voitures": [
+    {
+      "marque": "renault",
+      "couleur": "bleu",
+      "prix": 6000,
+      "id": 1
+    },
+    {
+      "marque": "tiguan",
+      "couleur": "rouge",
+      "prix": 5000,
+      "id": 2
+    },
+    {
+      "marque": "renault",
+      "couleur": "vert",
+      "prix": 10000,
+      "id": 3
+    },
+    {
+      "marque": "renault",
+      "couleur": "bleu",
+      "prix": 9000,
+      "id": 4
+    },
+    {
+      "marque": "renault",
+      "couleur": "noir",
+      "prix": 600000,
+      "id": 5
+    },
+    {
+      "marque": "audi",
+      "couleur": "blanc",
+      "prix": 6000,
+      "id": 6
+    }
+  ]
+}
